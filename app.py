@@ -256,7 +256,7 @@ def do_build_bond(pet):
 
 # ---------- Top bar ----------
 st.title("🐉 DRGN")
-st.caption("Wersja v14 — genetyka, hodowla i playtest")
+st.caption("Wersja v14.1 — genetyka, hodowla i playtest")
 
 view_col, turn_col, day_col, money_col, count_col, utility_col = st.columns(
     [2.0, 1.15, 0.75, 1.05, 1.05, 0.8],
@@ -873,7 +873,7 @@ st.markdown(
     <div style="text-align:center; opacity:0.75; font-size:0.9rem; padding: 0.8rem 0 1.5rem 0;">
         🐉 <strong>DRGN</strong> wykluło się według konceptu <strong>Mikołaja Wicher</strong>.<br>
         Jeśli smok uciekł, ekonomia się zapętliła albo chcesz pogadać o hodowli: 
-        <a href="mailto:wicher.ema@gmail.com">wicher.ema@gmail.com</a>.<br>
+        <a href="mailto:wicher.m@gmail.com">wicher.m@gmail.com</a>.<br>
         Gra powstała we współpracy z ChatGPT — który, dla jasności, nadal nie bierze odpowiedzialności za szkody od ognia, pazurów ani decyzji hodowlanych.
     </div>
     """,
