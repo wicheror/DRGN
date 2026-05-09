@@ -341,7 +341,6 @@ Najważniejsze zmiany:
 - Skrótowy feed stara się pokazywać krótsze, kompletne komunikaty.
 - Dodano stopkę autorską:
   - koncept: Mikołaj Wicher,
-  - kontakt: wicher.ema@gmail.com,
   - współpraca: ChatGPT.
 
 
