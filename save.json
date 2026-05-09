@@ -1,0 +1,413 @@
+{
+  "day": 20,
+  "coins": 93,
+  "pets": [
+    {
+      "id": "5170e278-2f05-4ee0-b6b1-525d63397fc4",
+      "owner_id": "player",
+      "name": "Wrzask",
+      "species": "dragon",
+      "generation": 1,
+      "stage": "dorosłość",
+      "age_days": 19,
+      "health": 62,
+      "happiness": 23,
+      "energy": 52,
+      "stress": 59,
+      "bond": 13,
+      "parents": [],
+      "children": [
+        "9600cecd-673b-4145-8d39-be2af5c7f849",
+        "5ca779d4-526a-4f7e-b5af-03425f0e341f"
+      ],
+      "is_bound_forever": false,
+      "genotype": {
+        "color": "oliwkowy",
+        "pattern": "z maską na pysku",
+        "eyes": "czarne",
+        "horns": "pęknięte rogi",
+        "size": "krępy",
+        "temperament": "przywiązany",
+        "immunity": 86,
+        "fertility": 24,
+        "mutation": 12,
+        "rarity": 66
+      },
+      "carrier_genes": {
+        "color": "dymny",
+        "pattern": "w cętki",
+        "eyes": "bursztynowe",
+        "horns": "pęknięte rogi",
+        "size": "mały",
+        "temperament": "dziki"
+      },
+      "phenotype": {
+        "color": "oliwkowy",
+        "pattern": "z maską na pysku",
+        "eyes": "czarne",
+        "horns": "pęknięte rogi",
+        "size": "krępy"
+      },
+      "temperament": "przywiązany",
+      "history": [
+        "Pojawił się w świecie smoków.",
+        "Trafił do hodowli jako pierwszy smok. Jeszcze nie wie, czy to awans, czy problem.",
+        "Pierwszy smok otrzymał imię: Wrzask.",
+        "Wrzask wszedł w etap: dorosłość."
+      ],
+      "prep_level": 0,
+      "knowledge_level": 0,
+      "revealed_hidden_traits": [],
+      "hidden_traits": [],
+      "base_market_value": 84,
+      "market_appraisal_price": null,
+      "market_appraisal_day": null,
+      "breeding_report": null,
+      "genetic_report": null,
+      "status": "W hodowli",
+      "work_type": null,
+      "line_head": false,
+      "created_at": "2026-05-09T20:45:18.436114",
+      "appraisal_flags": {
+        "market": false,
+        "breeding": false,
+        "genetic": false
+      },
+      "life_score_cache": 44
+    },
+    {
+      "id": "9600cecd-673b-4145-8d39-be2af5c7f849",
+      "owner_id": "player",
+      "name": "Rubin",
+      "species": "dragon",
+      "generation": 2,
+      "stage": "dorosłość",
+      "age_days": 8,
+      "health": 84,
+      "happiness": 55,
+      "energy": 44,
+      "stress": 22,
+      "bond": 15,
+      "parents": [
+        "5170e278-2f05-4ee0-b6b1-525d63397fc4",
+        "a5a00792-d04c-48ee-87ab-8a34a3888cf5"
+      ],
+      "children": [],
+      "is_bound_forever": false,
+      "genotype": {
+        "color": "oliwkowy",
+        "pattern": "z maską na pysku",
+        "eyes": "czarne",
+        "horns": "pęknięte rogi",
+        "size": "krępy",
+        "temperament": "przywiązany",
+        "immunity": 62,
+        "fertility": 66,
+        "mutation": 34,
+        "rarity": 44
+      },
+      "carrier_genes": {
+        "color": "lawendowy",
+        "pattern": "bez wzoru",
+        "eyes": "bursztynowe",
+        "horns": "krótkie rogi",
+        "size": "średni",
+        "temperament": "leniwy"
+      },
+      "phenotype": {
+        "color": "oliwkowy",
+        "pattern": "z maską na pysku",
+        "eyes": "czarne",
+        "horns": "pęknięte rogi",
+        "size": "krępy"
+      },
+      "temperament": "przywiązany",
+      "history": [
+        "Jajo złożone w hodowli.",
+        "Wykluł się z jaja: dziwne.",
+        "Test genetyczny Rubin gotowy. Raport ujawnia ukryte cechy i nosicielstwo.",
+        "Rubin zostaje głową linii. Od tej pory jego znaczenie wpływa na całą hodowlę.",
+        "Rubin wszedł w etap: dorosłość."
+      ],
+      "prep_level": 0,
+      "knowledge_level": 3,
+      "revealed_hidden_traits": [],
+      "hidden_traits": [],
+      "base_market_value": null,
+      "market_appraisal_price": null,
+      "market_appraisal_day": null,
+      "breeding_report": null,
+      "genetic_report": {
+        "summary": "Test genetyczny ujawnia ukryte cechy i nosicielstwo. To najpewniejsza droga do planowania linii.",
+        "traits": [
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **kolor — lawendowy**."
+          },
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **wzór — bez wzoru**."
+          },
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **oczy — bursztynowe**."
+          },
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **rogi — krótkie rogi**."
+          }
+        ]
+      },
+      "status": "Reproduktor / Matka linii",
+      "work_type": null,
+      "line_head": true,
+      "created_at": "2026-05-09T20:46:18.869981",
+      "appraisal_flags": {
+        "market": false,
+        "breeding": false,
+        "genetic": true
+      },
+      "life_score_cache": 68
+    },
+    {
+      "id": "5ca779d4-526a-4f7e-b5af-03425f0e341f",
+      "owner_id": "player",
+      "name": "Szrama",
+      "species": "dragon",
+      "generation": 5,
+      "stage": "młodość",
+      "age_days": 4,
+      "health": 76,
+      "happiness": 74,
+      "energy": 56,
+      "stress": 21,
+      "bond": 10,
+      "parents": [
+        "5170e278-2f05-4ee0-b6b1-525d63397fc4",
+        "51aaa28f-c943-4b09-ac0b-07b8ebfd19ae"
+      ],
+      "children": [],
+      "is_bound_forever": false,
+      "genotype": {
+        "color": "dymny",
+        "pattern": "z maską na pysku",
+        "eyes": "czarne",
+        "horns": "drobne kolce",
+        "size": "krępy",
+        "temperament": "przywiązany",
+        "immunity": 55,
+        "fertility": 60,
+        "mutation": 18,
+        "rarity": 76
+      },
+      "carrier_genes": {
+        "color": "dymny",
+        "pattern": "bez wzoru",
+        "eyes": "bursztynowe",
+        "horns": "pęknięte rogi",
+        "size": "smukły",
+        "temperament": "dziki"
+      },
+      "phenotype": {
+        "color": "dymny",
+        "pattern": "z maską na pysku",
+        "eyes": "czarne",
+        "horns": "drobne kolce",
+        "size": "krępy"
+      },
+      "temperament": "przywiązany",
+      "history": [
+        "Jajo złożone w hodowli.",
+        "Wykluł się z jaja: zwykłe.",
+        "Test genetyczny Szrama gotowy. Raport ujawnia ukryte cechy i nosicielstwo.",
+        "Szrama trafia do innej hodowli za **90 monet**. Przez chwilę wygląda, jakby zapamiętywał drogę powrotną."
+      ],
+      "prep_level": 0,
+      "knowledge_level": 3,
+      "revealed_hidden_traits": [],
+      "hidden_traits": [],
+      "base_market_value": 76,
+      "market_appraisal_price": null,
+      "market_appraisal_day": null,
+      "breeding_report": null,
+      "genetic_report": {
+        "summary": "Test genetyczny ujawnia ukryte cechy i nosicielstwo. To najpewniejsza droga do planowania linii.",
+        "traits": [
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **wzór — bez wzoru**."
+          },
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **oczy — bursztynowe**."
+          },
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **rogi — pęknięte rogi**."
+          },
+          {
+            "trait": "nosicielstwo",
+            "type": "ukryta cecha linii",
+            "effects": "może ujawnić się przy odpowiednim partnerze",
+            "description": "Niesie ukrytą cechę: **sylwetka — smukły**."
+          }
+        ]
+      },
+      "status": "W hodowli",
+      "work_type": null,
+      "line_head": false,
+      "created_at": "2026-05-09T20:47:21.489582",
+      "appraisal_flags": {
+        "market": false,
+        "breeding": false,
+        "genetic": true
+      },
+      "life_score_cache": 73,
+      "has_departed": true,
+      "sold": true
+    }
+  ],
+  "eggs": [],
+  "last_report": [
+    "Szrama trafia do innej hodowli za **90 monet**. Przez chwilę wygląda, jakby zapamiętywał drogę powrotną.",
+    "Test genetyczny Szrama gotowy. Raport ujawnia ukryte cechy i nosicielstwo.",
+    "## Dzień 20",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "### Szrama\nSzrama wygląda dziś dobrze. Trochę zbyt zadowolony z siebie, ale dobrze.\n\nSzrama pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "**💰 Ekonomia hodowli:** +6 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 4: aktywne 3, skala +0, młode +1, stare +0, jaja +0).",
+    "## Dzień 19",
+    "### Wrzask\nWrzask demonstracyjnie ignoruje zabawki, po czym sprawdza, czy patrzysz.\n\nWrzask pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Rubin\nRubin wygląda dziś dobrze. Trochę zbyt zadowolony z siebie, ale dobrze.\n\nRubin siedzi bliżej niż zwykle i udaje, że to przypadek."
+  ],
+  "feed": [
+    "Szrama trafia do innej hodowli za **90 monet**. Przez chwilę wygląda, jakby zapamiętywał drogę powrotną.",
+    "Test genetyczny Szrama gotowy. Raport ujawnia ukryte cechy i nosicielstwo.",
+    "## Dzień 20",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "### Szrama\nSzrama wygląda dziś dobrze. Trochę zbyt zadowolony z siebie, ale dobrze.\n\nSzrama pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "**💰 Ekonomia hodowli:** +6 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 4: aktywne 3, skala +0, młode +1, stare +0, jaja +0).",
+    "## Dzień 19",
+    "### Wrzask\nWrzask demonstracyjnie ignoruje zabawki, po czym sprawdza, czy patrzysz.\n\nWrzask pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Rubin\nRubin wygląda dziś dobrze. Trochę zbyt zadowolony z siebie, ale dobrze.\n\nRubin siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "### Szrama\nSzrama wygląda dziś dobrze. Trochę zbyt zadowolony z siebie, ale dobrze.\n\nSzrama pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "**💰 Ekonomia hodowli:** +6 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 4: aktywne 3, skala +0, młode +1, stare +0, jaja +0).",
+    "## Dzień 18",
+    "### Wrzask\nWrzask demonstracyjnie ignoruje zabawki, po czym sprawdza, czy patrzysz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "🐉 Rubin wszedł w etap: dorosłość.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Szrama\nSzrama wygląda dziś dobrze. Trochę zbyt zadowolony z siebie, ale dobrze.\n\nSzrama siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** +6 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 4: aktywne 3, skala +0, młode +1, stare +0, jaja +0).",
+    "## Dzień 17",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Szrama\nSzrama wygląda dziś dobrze. Trochę zbyt zadowolony z siebie, ale dobrze.\n\nSzrama siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** +5 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 5: aktywne 3, skala +0, młode +2, stare +0, jaja +0).",
+    "## Dzień 16",
+    "### Wrzask\nWrzask demonstracyjnie ignoruje zabawki, po czym sprawdza, czy patrzysz.\n\nWrzask pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** +5 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 5: aktywne 3, skala +0, młode +2, stare +0, jaja +0).",
+    "🥚 Z jaja wykluwa się **Szrama** — krępy, dymny smok z maską na pysku.",
+    "## Dzień 15",
+    "### Wrzask\nWrzask demonstracyjnie ignoruje zabawki, po czym sprawdza, czy patrzysz.\n\nWrzask pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** +6 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 4: aktywne 2, skala +0, młode +1, stare +0, jaja +1).",
+    "## Dzień 14",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** +6 monet (🛠 praca 0, 👑 głowa linii 8, 🏛 prestiż 2, utrzymanie 4: aktywne 2, skala +0, młode +1, stare +0, jaja +1).",
+    "Wrzask i Hodowlany Lazur najwyraźniej doszli do jakiegoś porozumienia. Pojawiło się jedno jajko.\\n\\n🥚 Połączenie trafia do księgi hodowli. Dopiero potomstwo pokaże, czy kryło się w nim coś naprawdę cennego.",
+    "Rubin zostaje głową linii. Od tej pory jego znaczenie wpływa na całą hodowlę.",
+    "Test genetyczny Rubin gotowy. Raport ujawnia ukryte cechy i nosicielstwo.",
+    "## Dzień 13",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "### Rubin\nRubin przeciąga się leniwie i pozwala ci podejść bliżej niż zwykle. To prawie komplement.\n\nRubin pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "**💰 Ekonomia hodowli:** -2 monet (🛠 praca 0, 👑 głowa linii 0, 🏛 prestiż 1, utrzymanie 3: aktywne 2, skala +0, młode +1, stare +0, jaja +0).",
+    "## Dzień 12",
+    "### Wrzask\nWrzask demonstracyjnie ignoruje zabawki, po czym sprawdza, czy patrzysz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** -2 monet (🛠 praca 0, 👑 głowa linii 0, 🏛 prestiż 1, utrzymanie 3: aktywne 2, skala +0, młode +1, stare +0, jaja +0).",
+    "🥚 **Wyklucie!** Jajo pęka po 4 dniach. Przez chwilę hodowla cichnie. Wykluwa się **Rubin** — krępy, oliwkowy smok z maską na pysku. To było jajo: **dziwne**.",
+    "## Dzień 11",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** -1 monet (🛠 praca 0, 👑 głowa linii 0, 🏛 prestiż 1, utrzymanie 2: aktywne 1, skala +0, młode +0, stare +0, jaja +1).",
+    "## Dzień 10",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask pozwala ci poprawić posłanie. Potem poprawia je po swojemu.",
+    "**💰 Ekonomia hodowli:** -1 monet (🛠 praca 0, 👑 głowa linii 0, 🏛 prestiż 1, utrzymanie 2: aktywne 1, skala +0, młode +0, stare +0, jaja +1).",
+    "## Dzień 9",
+    "### Wrzask\nWrzask demonstracyjnie ignoruje zabawki, po czym sprawdza, czy patrzysz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek.",
+    "**💰 Ekonomia hodowli:** -1 monet (🛠 praca 0, 👑 głowa linii 0, 🏛 prestiż 1, utrzymanie 2: aktywne 1, skala +0, młode +0, stare +0, jaja +1).",
+    "Wrzask i Dziki Irys najwyraźniej doszli do jakiegoś porozumienia. Pojawiło się jedno jajko.\\n\\n🥚 Połączenie trafia do księgi hodowli. Dopiero potomstwo pokaże, czy kryło się w nim coś naprawdę cennego.",
+    "Schadzka między Wrzask i Dziki Irys była pełna napięcia, gestów i wzajemnej oceny. Jajek brak.",
+    "## Dzień 8",
+    "### Wrzask\nWrzask od rana przestawia rzeczy w hodowli. Wygląda to mniej jak chaos, a bardziej jak komentarz.\n\nWrzask siedzi bliżej niż zwykle i udaje, że to przypadek."
+  ],
+  "starter_name_pending": false,
+  "onboarding_seen": true,
+  "telemetry": {
+    "next_day": 19,
+    "breed_attempt": 3,
+    "breed_success": 2,
+    "genetic_test": 2,
+    "status_change": 1,
+    "status_line_head": 1,
+    "sell": 1,
+    "sell_without_appraisal": 1
+  },
+  "inline_notice": "Szrama trafia do innej hodowli za **90 monet**. Przez chwilę wygląda, jakby zapamiętywał drogę powrotną.",
+  "debug": false,
+  "status_feed": [],
+  "external_parents": {
+    "a5a00792-d04c-48ee-87ab-8a34a3888cf5": {
+      "id": "a5a00792-d04c-48ee-87ab-8a34a3888cf5",
+      "name": "Dziki Irys",
+      "owner_id": "wild",
+      "generation": 1,
+      "stage": "dorosłość",
+      "status": "W hodowli",
+      "temperament": "leniwy",
+      "phenotype": {
+        "color": "czarny",
+        "pattern": "bez wzoru",
+        "eyes": "bursztynowe",
+        "horns": "krótkie rogi",
+        "size": "średni"
+      }
+    },
+    "51aaa28f-c943-4b09-ac0b-07b8ebfd19ae": {
+      "id": "51aaa28f-c943-4b09-ac0b-07b8ebfd19ae",
+      "name": "Hodowlany Lazur",
+      "owner_id": "npc",
+      "generation": 4,
+      "stage": "dorosłość",
+      "status": "W hodowli",
+      "temperament": "ciekawski",
+      "phenotype": {
+        "color": "dymny",
+        "pattern": "z maską na pysku",
+        "eyes": "czarne",
+        "horns": "drobne kolce",
+        "size": "smukły"
+      }
+    }
+  },
+  "market_saturation": 3,
+  "total_sales": 0,
+  "quality_sales": 0,
+  "line_prestige": 100,
+  "line_name": "Nienazwana linia"
+}
